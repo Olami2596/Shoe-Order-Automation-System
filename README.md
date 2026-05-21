@@ -41,6 +41,10 @@ This system automates the entire workflow:
 
 ## 🏗️ Architecture (Simple Flow)
 
+<img width="1042" height="578" alt="make-scenario" src="https://github.com/user-attachments/assets/ed387c1d-127e-4c10-af4f-9c1f32185db5" />
+
+
+
 Google Forms  
 → Google Sheets  
 → Make.com Scenario Trigger  
